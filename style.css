@@ -1,0 +1,290 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.first{
+    background-color: rgb(16, 76, 241);
+    height : 50px;
+    display:flex;
+    color: rgb(235, 232, 232);
+}
+
+img {
+    width: 30px;
+    height: 30px;
+    margin: 5px 10px 5px 30px;
+}
+
+ .qurbani{
+     margin: 5px 5px 5px 500px;
+     padding: 10px;
+ }
+
+ .first-buttons{
+     margin: 10px; 
+     padding: 5px 10px 5px 10px;
+ }
+ 
+ /* .second-row{
+    display: flex;
+    5pxpx 10px 10px 10px
+    background-color:white;
+ } */
+
+
+
+ .saylani-pic{
+     width: 200px;
+     height: 60px ;
+     padding: 5px;
+     margin: 5px 5px 5px 10px;
+ }
+
+ .second-buttons1{
+     margin: 5px 5px 5px 200px ;
+     padding: 10px 15px 10px 15px;
+     border-radius: 2em;
+     border: none;
+     background-color: rgb(54, 93, 199);
+     color: white;
+ }
+ 
+ .second-buttons{
+    margin: 5px 5px 5px 5px ;
+    padding: 10px 15px 10px 15px;
+    border-radius: 2em;
+    border: none;
+    
+ }
+ 
+ .second-buttons:hover{
+color: white;
+background-color: rgb(54, 93, 199);
+ }
+ 
+ .second-buttons{
+    transition-duration: 0.4s;}
+ 
+ 
+ .saylani-pic2{
+    width:1200px ;
+height: 700px;
+ }
+
+
+
+ .fouth-row{
+     text-align :center;
+     background-color: blue ;
+     color: white;
+     padding: 5px 5px 5px 5px;
+     margin:5px 5px 5px 5px ;
+     
+ }
+ 
+ .intro{  
+text-align: center;
+ }
+
+ .intro-1{
+     color: rgb(41, 161, 197);
+ }
+
+ .intro-2{
+    color:rgb(123, 182, 35);
+}
+
+.intro-p{
+    text-align: center;
+    color: rgb(127, 185, 39);
+    
+}
+
+.paragragh{
+    font-family: Arial, Helvetica, sans-serif;
+    color: grey;
+    width: 1000px;
+    text-align:left ;
+}
+
+.bluebox{
+    width: 300px;
+    height: 1000px;
+    display: inline-block;
+    background-color: blue;
+    border: blue;
+    color: white;
+     padding: 30px 10px 200px 10;
+
+}
+.blue{
+    background-color: blue;
+}
+
+
+.img-bluebox{
+    width: 50px;
+    height: 50px;
+    padding: 100px 10px 5px 80px;
+}
+
+.bluebox-p1{
+    width: 50px;
+    height: 20px;
+    font-size: 3em;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    padding: 1px 1px 1px 70px ;
+}
+
+.bluebox-p2{
+     font-size: 1em;
+  padding: 1px 1px 1px 50px ;
+  font-family:Arial, Helvetica, sans-serif;
+}
+
+.bluebox-p2-1{
+    color:white;
+}
+
+.bluebox-p2-2{
+    color:rgb(96, 240, 83); 
+}
+
+
+.h1-heading{
+    text-align: center;
+}
+
+.whatwe{
+    color: rgb(41, 161, 197);
+}
+.aredoing{
+    color:rgb(123, 182, 35);
+}
+
+.intro-p2{
+    text-align: center;
+    color: rgb(127, 185, 39);
+}
+
+.main2{
+    border: 2px solid grey;
+    width: 250px;
+    height: 120px;
+    display: inline-block;
+    margin: 20px;
+    padding: 30px;
+    text-align: center;
+}
+
+.button-main{
+    border: 0px solid grey;
+    width: 300px;
+    height: 150px;
+    display: inline-block;
+    margin: 20px;
+    padding: 30px;
+    text-align: center;
+}
+
+
+.img-main{
+    width: 50px;
+    height: 50px;
+}
+
+.upcomingh1{
+    color: rgb(33, 104, 185);
+    padding: 10px;
+    margin: 10PX 10PX 10PX 30px;
+    display: inline-block;
+}
+
+.upcomingh2{
+    color: rgb(33, 104, 185);
+    padding: 10px;
+    margin: 10PX 10PX 10PX 300px;
+    display: inline-block;
+}
+
+.main-2{
+    border: 1px solid lightslategray;
+    margin: 10px 30px 20px 50px;
+    padding: 20px 40px 20px 40px;
+    display: inline-block;
+    width: 250px;
+    height: 30px;
+    
+}
+
+/* .note{
+    width: 200px;
+    height: 200px;
+    border: 1px solid lightslategray;
+    text-align: center;
+    display: inline-block;
+     
+} */
+     
+.blank{
+    background-color: white;
+    height: 300px;
+}
+
+
+.h1-heading2{
+    text-align: center;
+}
+
+.image-{
+    color: rgb(41, 161, 197);
+}
+.gallery-{
+    color:rgb(123, 182, 35);
+}
+
+.image-gallery-main1{
+    
+     
+    /* margin: 5px;
+    padding: 10px; */
+     
+     display: inline-block;
+}
+
+.image-gallery1{
+    
+    width: 200px;
+    height: 120px;
+}
+
+.BLANK-1{
+    background-color: white;
+    height: 500px;
+}
+
+.black{
+    background-color: rgba(1, 11, 39, 0.822);
+    height: 350px;
+    color: rgb(189, 189, 189);
+}
+     
+
+.more{
+    padding: 50px 10px 10px 50px;
+    font-size: 0.9em; 
+}
+
+.icon{
+   width: 15px;
+   height: 15px;
+}
+
+.lastblueline{
+    background-color: rgb(16, 101, 230);
+    color:white ;
+    height: 30px;
+    padding: 5px 5px 5px 50px;
+     font-size: 0.7em;
+     font-family: Arial, Helvetica, sans-serif;
+}
